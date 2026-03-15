@@ -1,3 +1,7 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00C6FF&height=220&section=header&text=Francisco%20Garcia%20%7C%20Fr4nsh1&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+
+---
+
 # 👋 Hola, soy **Francisco García (Fr4nsh1)**
 
 💻 Diseñador web | 🔐 Aprendiendo ciberseguridad | 🐧 Linux & automatización
