@@ -1,75 +1,69 @@
-# 👋 Hola, soy Francisco García (Fr4nsh1)
+# 👋 Hola, soy **Francisco García (Fr4nsh1)**
 
-Diseñador web y entusiasta de la ciberseguridad.
+💻 Diseñador web | 🔐 Aprendiendo ciberseguridad | 🐧 Linux & automatización
 
-Actualmente trabajo desarrollando proyectos web y aprendiendo pentesting, Linux y automatización con Python.
-
----
-
-# 🌐 Proyectos Web
-
-## Webs propias
-
-🔹 https://botellade.com  
-Proyecto web con herramientas y guías sobre hidratación y consumo de agua.
-
-🔹 https://dedardos.es  
-Web especializada en el mundo de los dardos.
-
-🔹 https://errorresuelto.com  
-Guías para solucionar errores informáticos y problemas técnicos.
-
-🔹 https://escudos.eu  
-Recursos sobre escudos y heráldica.
-
-🔹 https://ruesconsulta.com  
-Proyecto web relacionado con consultas urbanísticas.
+Actualmente desarrollo proyectos web y estudio **pentesting, Linux avanzado y Python para automatización**.
 
 ---
 
-## Webs desarrolladas para clientes
+## 🌐 Proyectos Web
 
-🔹 https://termogrif.com  
-Web corporativa para empresa de climatización.
+### Webs propias
 
-🔹 https://adfinstalaciones.com  
-Web corporativa para empresa de instalaciones.
+* 🔹 https://botellade.com — Herramientas y guías sobre hidratación
+* 🔹 https://dedardos.es — Web especializada en dardos
+* 🔹 https://errorresuelto.com — Guías para solucionar errores informáticos
+* 🔹 https://escudos.eu — Recursos sobre escudos y heráldica
+* 🔹 https://ruesconsulta.com — Consultas urbanísticas
+
+### Webs desarrolladas para clientes
+
+* 🔹 https://termogrif.com — Empresa de climatización
+* 🔹 https://adfinstalaciones.com — Empresa de instalaciones
+
+### Proyecto social
+
+* 🔹 https://parroquiavirgenmadre.com — Web parroquial
 
 ---
 
-## Proyecto social
+## 🚀 Proyecto destacado
 
-🔹 https://parroquiavirgenmadre.com  
-Web desarrollada para la parroquia Virgen Madre.
+**Water Intake Calculator**
+
+Demo:
+https://fr4nsh.github.io/water-intake-calculator/
+
+Herramienta que calcula la hidratación diaria según peso corporal.
 
 ---
 
 # 🛠 Tecnologías
 
-![HTML](https://img.shields.io/badge/HTML-5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript\&logoColor=black)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress\&logoColor=white)
 
 ---
 
 # 💻 Sistemas
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux\&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows\&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash\&logoColor=white)
 
 ---
 
 # ☁️ Cloud
 
-![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure\&logoColor=white)
 
 ---
 
 # 🧠 Lenguajes
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white)
 
 ---
 
@@ -89,29 +83,29 @@ Web desarrollada para la parroquia Virgen Madre.
 
 # 📚 Actualmente aprendiendo
 
-- Pentesting
-- Linux avanzado
-- Python para automatización
-- Ciberseguridad ofensiva
-- CTF
-
----
-
-# 🚀 Proyecto en GitHub
-
-🔹 Water Intake Calculator  
-https://fr4nsh.github.io/water-intake-calculator/
-
-Calculadora de hidratación diaria basada en peso corporal.
+* Pentesting
+* Linux avanzado
+* Python para automatización
+* Ciberseguridad ofensiva
+* CTF
 
 ---
 
 # 📊 Estadísticas GitHub
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fr4nsh1&show_icons=true&theme=default)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=fr4nsh1\&show_icons=true\&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fr4nsh1\&layout=compact\&theme=tokyonight)
+
+---
+
+# 👀 Visitas al perfil
+
+![Visitor Count](https://komarev.com/ghpvc/?username=fr4nsh1)
 
 ---
 
 # 📫 Contacto
 
-🌐 https://botellade.com
+📧 Email: mrdmarbella@gmail.com
+
